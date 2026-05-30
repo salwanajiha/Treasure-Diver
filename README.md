@@ -1,2 +1,2 @@
-# Treasure-Hunt
+# Treasure Diver
 Programming Technique II Project
